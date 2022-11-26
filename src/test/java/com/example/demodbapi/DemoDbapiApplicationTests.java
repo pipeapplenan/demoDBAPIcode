@@ -1,0 +1,13 @@
+package com.example.demodbapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DemoDbapiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
